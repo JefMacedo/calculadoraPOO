@@ -12,3 +12,5 @@ The workspace contains two folders by default, where:
 
 Projeto de programação orientada a objetos `POO` em Java utilizando Composição, agregação e cardinalidade.
 
+- A calculadora somente realizará cálculos com números maiores ou igual a Zero.
+- A calculadora realizará as quatros operações básicas; soma, subtração, multiplicação e divisão.
